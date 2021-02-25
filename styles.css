@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+h1{
+    font-family: 'Koulen', cursive;
+}
+h1 .covid{
+    font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.card-body{
+    font-weight: 600;
+}
+.card-body i{
+    font-size: 50px;
+    margin: 5px;
+}
+h5{
+    margin: 5px;
+}
+
+#active,#recovered,#total{
+    font-size: 60px;
+}
+.bg-warning{
+    background-color: #DC7633 !important;
+}
